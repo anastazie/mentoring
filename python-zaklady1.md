@@ -12,15 +12,15 @@
     - [Tutorials point](https://docs.python.org/3.7/library/functions.html?highlight=float#float)
     - [W3schools](https://www.w3schools.com/python/python_numbers.asp)
   - Řetězce (`str`)
-    - [Dokumentace]()
-    - [Pyladies]()
-    - [Tutorials point]()
-    - [W3schools]()
+    - [Dokumentace](https://www.w3schools.com/python/python_numbers.asp)
+    - [Pyladies](https://naucse.python.cz/2018/pyladies-praha-podzim-cznic/beginners/str/)
+    - [Tutorials point](https://www.tutorialspoint.com/python/python_strings.htm)
+    - [W3schools](https://www.w3schools.com/python/python_strings.asp)
   - Seznamy (`list`)
-    - [Dokumentace]()
-    - [Pyladies]()
-    - [Tutorials point]()
-    - [W3schools]()
+    - [Dokumentace](https://docs.python.org/3/tutorial/introduction.html#lists)
+    - [Pyladies](https://naucse.python.cz/2018/pyladies-praha-podzim-cznic/beginners/list/)
+    - [Tutorials point](https://www.tutorialspoint.com/python/python_lists.htm)
+    - [W3schools](https://www.w3schools.com/python/python_lists.asp)
   - Slovníky (`dict`)
     - [Dokumentace]()
     - [Pyladies]()
@@ -35,11 +35,12 @@
     - [Dokumentace]()
     - [Tutorials point]()
     - [W3schools]()
-1. Podmínky
+2. Proměnné
+3. Podmínky
   - [Slidy]()
   - [Tutorials point]()
   - [W3schools]()
-2.  Cykly
+4.  Cykly
   - [Slidy]()
   - [Pyladies]()
   - [Tutorials point]()
