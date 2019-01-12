@@ -119,22 +119,42 @@
 
 8.
   - Zadání
+    - Vytisknout n-tici, kde první prvek je počet lichých čísel v seznamu a druhý prvek je počet sudých čísel 
   - Příklad vstupu
-    - 
+    - `[1, 2, 3]`, `[1, 3]`, `[0, 2, 3]`
   - Příklad výstupu
-    -
+    - `(2, 1)`, `(2, 0)`, `(1, 2)`
 
 9.
   - Zadání
+    - Vytisknout samohlasky v řetězci velkými pismeny 
   - Příklad vstupu
-    - 
+    - `'python'`, `'ou'`, `'krk'`
   - Příklad výstupu
-    -
+    - `'pythOn'`, `'OU'`, `'krk'`
 
 
 10.
   - Zadání
+    - Vytisknout počet hvězdiček (`*`) dle hodnot v seznamu
   - Příklad vstupu
-    - 
+    - `[1, 2, 3]`, `[5, 0, 5]`, ``
   - Příklad výstupu
-    -
+``` 
+*
+**
+***
+```
+, 
+```
+***
+**
+*
+```
+,
+
+```
+*****
+
+*****
+```
