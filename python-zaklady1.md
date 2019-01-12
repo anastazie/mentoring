@@ -101,18 +101,20 @@
 
 6.
   - Zadání
+    - Najít nějkratší prvek seznamu
   - Příklad vstupu
-    - 
+    - `['jablka', 'hrušky', 'kiwi', 'ananas']`, `['abc', ['a', 'b'], 'lmn']`, `['abc', 'dce', 'lmn']`
   - Příklad výstupu
-    -
+    - `'kiwi'`, `['a', 'b']`, `'abc'`
 
 
 7.
   - Zadání
+    - Vytvořit slovník ze seznamu, kde klíčem bude prvek seznamu a hodnotou jeho delka
   - Příklad vstupu
-    - 
+    - `['jablka', 'hrušky', 'kiwi', 'ananas']`, `['abc', ('a', 'b'), 'lmn']`, `['']`
   - Příklad výstupu
-    -
+    - `{'ananas': 6, 'hrušky': 6, 'jablka': 6, 'kiwi': 4}`, `{('a', 'b'): 2, 'abc': 3, 'lmn': 3}`, `{'': 0}`
 
 
 8.
