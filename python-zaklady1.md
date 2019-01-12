@@ -2,11 +2,11 @@
 
 ## Materiály
 
-* Není potřeba číst všechny materiály. Ovšem pokud není jasný nějaký koncept, doporučuji podívat se na více zdrojů. Každý z nich může vysvětlovat ho trochu jinak.*
+*Není potřeba číst všechny materiály. Ovšem pokud není jasný nějaký koncept, doporučuji podívat se na více zdrojů. Každý z nich může vysvětlovat ho trochu jinak.*
 
 1. Datové typy
   - [Slidy](https://docs.google.com/presentation/d/1T5EzaqzAVje3-8MpazjgXn4NVv0n4rcP2iVt97uPuGI/edit?usp=sharing)
-  - [Dokuemntace](https://docs.python.org/3.7/library/stdtypes.html?)
+  - [Dokumentace](https://docs.python.org/3.7/library/stdtypes.html?)
   - [Learn Python - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
   - [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
   - Celá čísla (`int`) a desetinná čísla (`float`)
@@ -43,59 +43,96 @@
   - [Tutorials point](https://www.tutorialspoint.com/python/python_variable_types.htm)
   - [W3schools](https://www.w3schools.com/python/python_variables.asp)
 3. Podmínky
-  - [Slidy]()
+  - [Slidy](https://docs.google.com/presentation/d/1xH4evS4ovDHahGkN6slsUWncmxmtJBw54A9fkP75NTo/edit?usp=sharing)
   - [Tutorials point](https://www.tutorialspoint.com/python/python_if_else.htm)
   - [W3schools](https://www.w3schools.com/python/python_conditions.asp)
 4.  Cykly
-  - [Slidy]()
-  - [Pyladies]()
-  - [Tutorials point]()
-  - [W3schools]()
+  - [Slidy](https://docs.google.com/presentation/d/1xH4evS4ovDHahGkN6slsUWncmxmtJBw54A9fkP75NTo/edit?usp=sharing)
+  - [Pyladies](https://naucse.python.cz/2018/pyladies-praha-podzim-cznic/beginners/while/)
+  - [Tutorials point](https://www.tutorialspoint.com/python/python_loops.htm)
+  - [W3schools](https://www.w3schools.com/python/python_for_loops.asp)
 
 ## Cvičení
 
-1.
-  - Zadání
-  - Vstup
-  - Výstup
-
+*Doporučuji během vyplnění cvíčení dělat poznámky pro následnou diskuzi a dovysvětlení.*
 
 1.
   - Zadání
-  - Vstup
-  - Výstup
+    - Vytísknout na obrazovku řetězec pozpátku
+  - Příklad vstupu
+    - `'python'`, `'apple'`, `'bob'`
+  - Příklad výstupu
+    - `'nohtyp'`, `'elppa'`, `'bob'`
 
-1.
+2.
   - Zadání
-  - Vstup
-  - Výstup
+    - Spojít seznam řětězců do jednoho řetězce
+  - Příklad vstupu
+    - `['L', 'e', 'n', 'k', 'a']`, `['1', '2', '3']`, `['a']`
+  - Příklad výstupu
+    - `'Lenka'`, `'123'`, `'a'`
 
 
-1.
+3.
   - Zadání
-  - Vstup
-  - Výstup
+    - Zjistít rozdíl mezi prvním a druhým seznamem
+  - Příklad vstupu
+    - `[1, 2, 3, 5, 7, 8]` a `[1, 2, 4, 5, 6, 8]`, `['a', 'c', 'd']` a `['d', 'a', 'b']`, `[1, 2, 3]` a `[1, 2, 3]`
+  - Příklad výstupu
+    - `[3, 7]`, `['c']`, `[]`
 
 
-1.
+4.
   - Zadání
-  - Vstup
-  - Výstup
+    - Přidát hodnoty druhého slovníku k prvnímu
+  - Příklad vstupu
+    - `{'a': 1, 'c': 2, 'd': 3}` a `{'e': 1, 'f': 15}`, `{'a': 1, 'c': 2, 'd': 3}` a `{'c': 1, 'f': 15}`, `{'a': 1, 'c': 2, 'd': 3}` a `{1: 'c', 2: 'b'}`
+  - Příklad výstupu
+    - `{'a': 1, 'c': 2, 'd': 3, 'e': 1, 'f': 15}`, `{'a': 1, 'c': 1, 'd': 3, 'f': 15}`, `{1: 'c', 2: 'b', 'a': 1, 'c': 2, 'd': 3}`
 
 
-1.
+5.
   - Zadání
-  - Vstup
-  - Výstup
+    - Sečíst všechny hodnoty ve slovníku
+  - Příklad vstupu
+    - `{'a': 1, 'c': 2, 'd': 3}`, `{'věk': 10, 'věk': 20}`, `{'hodnota': 100}`
+  - Příklad výstupu
+    - `6`, `20`, `100`
 
-
-1.
+6.
   - Zadání
-  - Vstup
-  - Výstup
+  - Příklad vstupu
+    - 
+  - Příklad výstupu
+    -
 
 
-1.
+7.
   - Zadání
-  - Vstup
-  - Výstup
+  - Příklad vstupu
+    - 
+  - Příklad výstupu
+    -
+
+
+8.
+  - Zadání
+  - Příklad vstupu
+    - 
+  - Příklad výstupu
+    -
+
+9.
+  - Zadání
+  - Příklad vstupu
+    - 
+  - Příklad výstupu
+    -
+
+
+10.
+  - Zadání
+  - Příklad vstupu
+    - 
+  - Příklad výstupu
+    -
