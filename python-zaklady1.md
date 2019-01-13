@@ -2,21 +2,21 @@
 
 ## Materiály
 
-*Není potřeba číst všechny materiály. Ovšem pokud není jasný nějaký koncept, doporučuji podívat se na více zdrojů. Každý z nich může vysvětlovat ho trochu jinak.*
+*Není potřeba číst všechny materiály. Ovšem pokud není jasný nějaký koncept, doporučuji se podívat na více zdrojů. Každý z nich jej může vysvětlovat trochu jinak.*
 
 1. Datové typy
   - [Slidy](https://docs.google.com/presentation/d/1T5EzaqzAVje3-8MpazjgXn4NVv0n4rcP2iVt97uPuGI/edit?usp=sharing)
-  - [Dokumentace](https://docs.python.org/3.7/library/stdtypes.html?)
+  - [Dokumentace](https://docs.python.org/3/library/stdtypes.html?)
   - [Learn Python - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
   - [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
   - Celá čísla (`int`) a desetinná čísla (`float`)
-    - [Dokumentace - `int`](https://docs.python.org/3.7/library/functions.html?highlight=int#int)
-    - [Dokumentace - `float`](https://docs.python.org/3.7/library/functions.html?highlight=float#float)
-    - [Tutorials point](https://docs.python.org/3.7/library/functions.html?highlight=float#float)
+    - [Dokumentace - `int`](https://docs.python.org/3/library/functions.html#int)
+    - [Dokumentace - `float`](https://docs.python.org/3/library/functions.html#float)
+    - [Tutorials point](https://docs.python.org/3/library/functions.html#float)
     - [W3schools](https://www.w3schools.com/python/python_numbers.asp)
   - Řetězce (`str`)
     - [Metoda `format`](https://pyformat.info/)
-    - [Dokumentace](https://www.w3schools.com/python/python_numbers.asp)
+    - [Dokumentace](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)
     - [Pyladies](https://naucse.python.cz/2018/pyladies-praha-podzim-cznic/beginners/str/)
     - [Tutorials point](https://www.tutorialspoint.com/python/python_strings.htm)
     - [W3schools](https://www.w3schools.com/python/python_strings.asp)
@@ -26,17 +26,17 @@
     - [Tutorials point](https://www.tutorialspoint.com/python/python_lists.htm)
     - [W3schools](https://www.w3schools.com/python/python_lists.asp)
   - Slovníky (`dict`)
-    - [Dokumentace](https://docs.python.org/3.7/library/stdtypes.html?highlight=dict%20built#dict)
+    - [Dokumentace](https://docs.python.org/3/library/stdtypes.html#dict)
     - [Pyladies](https://naucse.python.cz/2018/pyladies-praha-podzim-cznic/beginners/dict/)
     - [Tutorials point](https://www.tutorialspoint.com/python/python_dictionary.htm)
     - [W3schools](https://www.w3schools.com/python/python_dictionaries.asp)
   - N-tice (`tuple`)
-    - [Dokumentace](https://docs.python.org/3.7/library/stdtypes.html?#tuples)
+    - [Dokumentace](https://docs.python.org/3/library/stdtypes.html?#tuples)
     - [Pyladies](https://naucse.python.cz/2018/pyladies-praha-podzim-cznic/beginners/tuple/)
     - [Tutorials point](https://www.tutorialspoint.com/python/python_tuples.htm)
     - [W3schools](https://www.w3schools.com/python/python_tuples.asp)
   - Množina (`set`)
-    - [Dokumentace](https://docs.python.org/3.7/library/stdtypes.html?h#set-types-set-frozenset)
+    - [Dokumentace](https://docs.python.org/3/library/stdtypes.html?h#set-types-set-frozenset)
     - [Tutorials point](https://www.tutorialspoint.com/python/python_sets.htm)
     - [W3schools](https://www.w3schools.com/python/python_sets.asp)
 2. Proměnné
@@ -84,7 +84,7 @@
 
 4.
   - Zadání
-    - Přidát hodnoty druhého slovníku k prvnímu
+    - Přidat hodnoty druhého slovníku k prvnímu
   - Příklad vstupu
     - `{'a': 1, 'c': 2, 'd': 3}` a `{'e': 1, 'f': 15}`, `{'a': 1, 'c': 2, 'd': 3}` a `{'c': 1, 'f': 15}`, `{'a': 1, 'c': 2, 'd': 3}` a `{1: 'c', 2: 'b'}`
   - Příklad výstupu
@@ -101,7 +101,7 @@
 
 6.
   - Zadání
-    - Najít nějkratší prvek seznamu
+    - Najít nejkratší prvek seznamu
   - Příklad vstupu
     - `['jablka', 'hrušky', 'kiwi', 'ananas']`, `['abc', ['a', 'b'], 'lmn']`, `['abc', 'dce', 'lmn']`
   - Příklad výstupu
@@ -110,7 +110,7 @@
 
 7.
   - Zadání
-    - Vytvořit slovník ze seznamu, kde klíčem bude prvek seznamu a hodnotou jeho delka
+    - Vytvořit slovník ze seznamu, kde klíčem bude prvek seznamu a hodnotou jeho délka
   - Příklad vstupu
     - `['jablka', 'hrušky', 'kiwi', 'ananas']`, `['abc', ('a', 'b'), 'lmn']`, `['']`
   - Příklad výstupu
@@ -127,7 +127,7 @@
 
 9.
   - Zadání
-    - Vytisknout samohlasky v řetězci velkými pismeny 
+    - Vytisknout samohlásky v řetězci velkými pismeny 
   - Příklad vstupu
     - `'python'`, `'ou'`, `'krk'`
   - Příklad výstupu
